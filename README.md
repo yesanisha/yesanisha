@@ -1,7 +1,6 @@
 # 💫About Me :
 - 👋 Hi, I’m @yesanisha
-- 👀 I’m interested in Fullstack
-- 🌱 I’m currently learning backend
+- 👀 I would like to code the next atomic bomb
 - 📫 How to reach me: anishakumari6145@gmail.com
 - 😄 Pronouns: she/her
 
