@@ -6,7 +6,7 @@
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesanisha) 
-[![Website]](https://anisha-livid.vercel.app/#services) 
+[![Website]](https://img.shields.io/badge/Anisha_Portfolio-6C63FF?style=for-the-badge&logo=react&logoColor=white)](https://anisha-livid.vercel.app/#services) 
 
 
 # 📊GitHub Stats :
