@@ -20,8 +20,7 @@
 **Frontend:** React, React Native, Next.js, Tailwind CSS, Expo  
 **Backend / APIs:** Node.js, Express, Firebase, Serverless (Vercel / Netlify)  
 **Data & DevOps:** PostgreSQL, MongoDB, Docker, GitHub Actions, Vercel  
-**Design & Prototyping:** Figma, Framer Motion, Lottie  
-**Other:** Jest, Cypress, Storybook, ESLint, Prettier
+**Design & Prototyping:** Figma, Lottie  
 
 ---
 
@@ -29,20 +28,6 @@
 - Building: a PDF Study Assistant (LLM-powered study notes + quizzes) — frontend in React, backend Node/Express.
 - Improving: automated test suites & CI pipelines for faster, safer deployments.
 - Exploring: small ML integration for smart summarization and question generation.
-
----
-
-## ⭐ Selected Projects
-> Links are examples — replace with actual repo/URL links.
-
-- **PDF Study Assistant** — extracts and summarizes PDFs, generates practice quizzes, and provides spaced-repetition hints. (React + Node + OpenAI)
-  - Highlights: LLM prompt engineering, PDF parsing, client-side UX for studying.
-
-- **HeyRoomie** — roommate matching platform with swipable profiles and in-app messaging. (React Native + Firebase)
-  - Highlights: matching algorithm, onboarding flows, animations.
-
-- **GitDocify** — README & docs generator for GitHub repos (CLI + web UI).
-  - Highlights: intelligent scaffolding, templates, README automation.
 
 ---
 
