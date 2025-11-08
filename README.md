@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anisha (aka **@yesanisha**)
 
-[![Website](https://img.shields.io/badge/portfolio-anisha--livid.vercel.app-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://anisha-livid.vercel.app/#home) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesanisha)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesanisha)  
 [![Email](https://img.shields.io/badge/-anishakumari6145@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:anishakumari6145@gmail.com)  
 [![](https://visitcount.itsvg.in/api?id=yesanisha&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -47,7 +47,6 @@
 ## 📫 Contact
 - Email: [anishakumari6145@gmail.com](mailto:anishakumari6145@gmail.com)  
 - LinkedIn: [yesanisha](https://linkedin.com/in/yesanisha)  
-- Portfolio: https://anisha-livid.vercel.app/#home
 
 ---
 
