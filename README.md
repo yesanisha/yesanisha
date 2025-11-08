@@ -62,7 +62,3 @@
 ---
 
 Thanks for stopping by — I’m always excited to chat about code, design, and building delightful products.  
-If you want, I can:
-- Convert this into a profile `README.md` with live badges for your actual repos,
-- Generate the `github-readme-stats`/Top languages badges with your username,
-- Or make a compact one-page bio for your portfolio site.
